@@ -1,1 +1,1 @@
-web: java -jar target/Pharmacie2-1.0.0.jar
+web: java -war target/Pharmacie2-1.0.0.war
